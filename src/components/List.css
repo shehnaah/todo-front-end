@@ -1,0 +1,8 @@
+.container{
+    /* background-image: url(https://t3.ftcdn.net/jpg/02/68/50/56/360_F_268505602_SzmLnAYjXCgqTUhZj6slNeKDw7r9S4Tl.jpg); */
+    background-color: white;
+}
+.todo{
+    background-color: rgba(110, 222, 40, 0.467);
+    /* background-color: rgba(214, 241, 135, 0.778) */
+}
